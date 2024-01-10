@@ -1,0 +1,13 @@
+train: C:\Users\fflor\OneDrive\Desktop\Proiect_IA\train\images
+val: C:\Users\fflor\OneDrive\Desktop\Proiect_IA\valid\images
+test: C:\Users\fflor\OneDrive\Desktop\Proiect_IA\test\images
+
+nc: 6
+names: ['chesterfield', 'dunhill', 'marlboro', 'pallmall', 'sobranie', 'winston']
+
+roboflow:
+  workspace: florin-fn2mk
+  project: cigarette-packs-apcpr
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/florin-fn2mk/cigarette-packs-apcpr/dataset/1
