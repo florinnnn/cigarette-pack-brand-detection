@@ -5,4 +5,4 @@ response = simp.Downloader
 keywords = ['chesterfield tigari']
 
 #for kw in keywords:
-response().download('sobranie', limit = 32)
+response().download('dunhill+cigarettes', limit = 40)

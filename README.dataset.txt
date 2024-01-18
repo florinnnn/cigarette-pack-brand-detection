@@ -1,4 +1,4 @@
-# Cigarette packs > 2024-01-10 8:35pm
+# Cigarette packs > 2024-01-18 12:04am
 https://universe.roboflow.com/florin-fn2mk/cigarette-packs-apcpr
 
 Provided by a Roboflow user
